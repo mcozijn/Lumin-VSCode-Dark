@@ -1,6 +1,6 @@
-# Lumin-Dark README
+# Lumin-Dark
 
-Dark minimal theme for VS Code with some pastel accents
+Minimal Dark theme for VS Code with some pastel accents.
 
 
 
